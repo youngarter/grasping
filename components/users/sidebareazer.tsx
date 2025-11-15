@@ -10,7 +10,7 @@ export default function Sidebar() {
 
   const navItems = [
     { name: "Tableau de bord", href: "/dashboard", icon: Home },
-    { name: "Actualités", href: "/search", icon: Search },
+    { name: "Actualités", href: "/actualites", icon: Search },
     { name: "Incidents & événements", href: "/profile", icon: User },
     { name: "Rapports", href: "/reports", icon: 'package-open' },
     { name: "Réclamations", href: "/claims", icon: 'file-text' },

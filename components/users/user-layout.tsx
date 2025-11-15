@@ -42,7 +42,7 @@ export default function UserLayout({
 
   const navItems = [
     { name: "Home", href: "/dashboard", icon: Home },
-    { name: "Actualités", href: "/search", icon: Rss },
+    { name: "Actualités", href: "/actualites", icon: Rss },
     { name: "Reports", href: "/reports", icon: Package },
     { name: "Réclamations", href: "/claims", icon: FileArchive },
     { name: "Settings", href: "/settings", icon: Settings2 },
